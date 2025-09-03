@@ -1,0 +1,69 @@
+/* src/theme.css */
+
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto:wght@400;500&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+.navbar {
+  background-color: #212121 !important;
+}
+
+.navbar-brand {
+  color: #fbc02d !important;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #ffffff !important;
+  margin: 0 10px;
+}
+.nav-link:hover {
+  color: #fbc02d !important;
+}
+
+.btn-primary {
+  background-color: #fbc02d;
+  border: none;
+  color: #000;
+  font-weight: 600;
+}
+.btn-primary:hover {
+  background-color: #f9a825;
+  color: #000;
+}
+
+.btn-outline-primary {
+  border: 2px solid #fbc02d;
+  color: #fbc02d;
+  font-weight: 600;
+}
+.btn-outline-primary:hover {
+  background-color: #fbc02d;
+  color: #000;
+}
+
+footer {
+  background-color: #212121;
+  color: #fff;
+}
+
+footer a {
+  color: #fbc02d;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,234 @@
+{
+  "globals": {
+    "brandName": "JourneyGems",
+    "primaryPhone": "+919999999999",
+    "secondaryPhone": "+91 98765 43210",
+    "callButtonText": "Call Now",
+    "enquireButtonText": "Enquire Now",
+    "logo": "logo.png",
+    "developerText": "Developed by VCraft Innovations"
+  },
+  "navbar": {
+    "links": [
+      {
+        "name": "Home",
+        "path": "/"
+      },
+      {
+        "name": "About Us",
+        "path": "/about"
+      },
+      {
+        "name": "Nearby Places",
+        "path": "/places"
+      },
+      {
+        "name": "Contact",
+        "path": "/contact"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Reliable rides, anytime, anywhere. Your trusted partner for safe and affordable travel.",
+    "quickLinks": [
+      {
+        "name": "Home",
+        "path": "/"
+      },
+      {
+        "name": "About Us",
+        "path": "/about"
+      },
+      {
+        "name": "Places",
+        "path": "/places"
+      },
+      {
+        "name": "Contact",
+        "path": "/contact"
+      }
+    ],
+    "contact": {
+      "address": "Udaipur, Rajasthan, India",
+      "phone": "+919999999999",
+      "email": "support@journeygems.com"
+    },
+    "socialLinks": [
+      {
+        "name": "Facebook",
+        "url": "https://facebook.com",
+        "iconClass": "bi bi-facebook"
+      },
+      {
+        "name": "Twitter",
+        "url": "https://twitter.com",
+        "iconClass": "bi bi-twitter"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com",
+        "iconClass": "bi bi-instagram"
+      }
+    ]
+  },
+  "home": {
+    "hero": {
+      "title": "Reliable Taxi Service in Your City",
+      "subtitle": "Safe, affordable, and comfortable rides — anytime, anywhere.",
+      "callButton": "callButtonText",
+      "enquireButton": "enquireButtonText",
+      "phone": "primaryPhone",
+      "background": "home-banner.jpeg"
+    },
+    "whyChooseUs": {
+      "title": "Why Choose Our Taxi Service?",
+      "items": [
+        {
+          "title": "Reliable Rides",
+          "text": "Always on time with experienced and courteous drivers."
+        },
+        {
+          "title": "Affordable Prices",
+          "text": "Transparent pricing with no hidden charges. Best value for money."
+        },
+        {
+          "title": "Safety First",
+          "text": "Clean vehicles with trusted local drivers for your safety."
+        }
+      ]
+    },
+    "services": {
+      "title": "Our Services",
+      "items": [
+        {
+          "title": "Airport Pickup",
+          "text": "On-time pickups and drops at the airport."
+        },
+        {
+          "title": "City Rides",
+          "text": "Affordable rides within the city limits."
+        },
+        {
+          "title": "Outstation",
+          "text": "Comfortable trips to nearby cities and towns."
+        },
+        {
+          "title": "Sightseeing",
+          "text": "Explore local attractions with us."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Book Your Ride Today!",
+      "subtitle": "Available 24/7 — Quick, Safe, and Affordable",
+      "buttonText": "callButtonText",
+      "phone": "primaryPhone",
+      "background": "fill-petrol.jpg"
+    }
+  },
+  "aboutUs": {
+    "hero": {
+      "title": "About Us",
+      "subtitle": "Your trusted partner for safe, reliable, and affordable taxi rides.",
+      "background": "about-1.jpg"
+    },
+    "story": {
+      "title": "Our Story",
+      "text": "We started with a simple mission: to make transportation in our city safer, easier, and more affordable. With years of experience in the industry, we’ve built a reputation for reliability and trust. Today, we are proud to serve thousands of happy customers every year.",
+      "image": "about-2.jpg"
+    },
+    "missionVision": {
+      "missionTitle": "Our Mission",
+      "missionText": "To provide every customer with a safe, comfortable, and affordable ride experience. We aim to be the most trusted taxi service by putting customer satisfaction at the heart of everything we do.",
+      "visionTitle": "Our Vision",
+      "visionText": "To redefine local transportation by combining technology with personal care, ensuring convenience, reliability, and comfort for everyone.",
+      "image": "about-3.jpg"
+    },
+    "cta": {
+      "title": "Ride With Us Today",
+      "subtitle": "We’re available 24/7 to serve you.",
+      "buttonText": "callButtonText",
+      "phone": "primaryPhone",
+      "background": "about-4.jpg"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "We’re here to help — send us your enquiry today.",
+      "background": "contact-us.jpg"
+    },
+    "form": {
+      "heading": "Send us an Enquiry",
+      "fields": {
+        "name": "Name",
+        "email": "Email",
+        "message": "Message / Enquiry",
+        "namePlaceholder": "Enter your name",
+        "emailPlaceholder": "Enter your email",
+        "messagePlaceholder": "Write your enquiry here..."
+      },
+      "submitButton": "Send Enquiry",
+      "sendingButton": "Sending...",
+      "emailjsServiceID": "service_9yaoahm",
+      "emailjsTemplateID": "template_uhgo5jm",
+      "emailjsUserID": "xOHNyKR2j6M8XGnVh"
+    }
+  },
+  "places": [
+    {
+      "name": "Haldighati",
+      "desc": "A historic mountain pass famous for the Battle of Haldighati (1576) between Maharana Pratap and the Mughal army.",
+      "img": "haldighati.jpg",
+      "map": "https://goo.gl/maps/hQ9TbTPTvNR2"
+    },
+    {
+      "name": "Kumbhalgarh Fort",
+      "desc": "A UNESCO World Heritage Site with one of the longest walls in the world, built by Rana Kumbha.",
+      "img": "kumbhalgarh.jpg",
+      "map": "https://goo.gl/maps/dDdVuU42pCH2"
+    },
+    {
+      "name": "Chittorgarh Fort",
+      "desc": "The largest fort in India, symbol of Rajput pride and sacrifice, known for Rani Padmini's story.",
+      "img": "chittorgarh.jpg",
+      "map": "https://goo.gl/maps/L1dYb7TLycR2"
+    },
+    {
+      "name": "Mount Abu",
+      "desc": "Rajasthan’s only hill station, known for Nakki Lake, Dilwara Temples and scenic beauty.",
+      "img": "mount-abu.jpg",
+      "map": "https://goo.gl/maps/5N5fTwkBoU62"
+    },
+    {
+      "name": "Ranakpur Jain Temple",
+      "desc": "An architectural marvel with 1,444 intricately carved marble pillars, all unique.",
+      "img": "ranakpurthe-jain-temple.jpg",
+      "map": "https://goo.gl/maps/r2TgF7QFhv92"
+    },
+    {
+      "name": "Eklingji Temple",
+      "desc": "A historic temple dedicated to Lord Shiva, highly revered by the Mewar rulers.",
+      "img": "eklingji-temple.jpg",
+      "map": "https://goo.gl/maps/8Zp83RdsXoR2"
+    },
+    {
+      "name": "Nathdwara",
+      "desc": "Famous for the Shrinathji Temple, one of the most important pilgrimage sites in Rajasthan.",
+      "img": "shreenathji-temple.jpg",
+      "map": "https://goo.gl/maps/PMSTWZkbyYo"
+    },
+    {
+      "name": "Jaisamand Lake",
+      "desc": "The second largest artificial lake in Asia, also known as Dhebar Lake.",
+      "img": "jaisamand-lake.jpg",
+      "map": "https://goo.gl/maps/bJqDuxF7c1A2"
+    },
+    {
+      "name": "Rajsamand Lake",
+      "desc": "A stunning man-made lake built by Maharana Raj Singh in the 17th century.",
+      "img": "rajsamand-Lake.jpg",
+      "map": "https://goo.gl/maps/u9s5uxZK3uC2"
+    }
+  ]
+}
